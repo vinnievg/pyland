@@ -18,7 +18,7 @@ Mullins.
 ## Install
 These install instructions may be incomplete and you may require additional packages to the ones listed here
 
-#### Getting Dependancies (Raspberry Pi)
+#### Getting Dependencies (Raspberry Pi)
 
 Install packages from raspbian repo:
 ```bash
